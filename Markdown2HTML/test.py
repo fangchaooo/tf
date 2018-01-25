@@ -3,11 +3,11 @@ import sys
 import re
 import os
 
-# os.system('sudo apt-get autoremove pandoc')
-# os.system('sudo apt-get install cabal-install')
-# os.system('cabal update')
-# os.system('cabal install pandoc')
-# os.system('sudo apt-get install pandoc')
+os.system('sudo apt-get autoremove pandoc')
+os.system('sudo apt-get install cabal-install')
+os.system('cabal update')
+os.system('cabal install pandoc')
+os.system('sudo apt-get install pandoc')
 
 path = input("Please input your markdown file path(using absolute path): ")
 css_path = input("Please input your markdown.css path(using absolute path): ")
