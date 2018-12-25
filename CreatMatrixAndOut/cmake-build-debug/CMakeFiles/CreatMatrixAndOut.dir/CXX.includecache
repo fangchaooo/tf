@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fc/CLionProjects/CreatMatrixAndOut/main.cpp
+iostream
+-
+fstream
+-
+string
+/home/fc/CLionProjects/CreatMatrixAndOut/string
+

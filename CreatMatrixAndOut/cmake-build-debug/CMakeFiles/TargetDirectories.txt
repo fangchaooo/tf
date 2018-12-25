@@ -1,0 +1,3 @@
+/home/fc/CLionProjects/CreatMatrixAndOut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fc/CLionProjects/CreatMatrixAndOut/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fc/CLionProjects/CreatMatrixAndOut/cmake-build-debug/CMakeFiles/CreatMatrixAndOut.dir

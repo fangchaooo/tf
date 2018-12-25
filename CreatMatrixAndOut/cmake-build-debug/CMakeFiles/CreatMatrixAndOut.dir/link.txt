@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CreatMatrixAndOut.dir/main.cpp.o  -o CreatMatrixAndOut 
